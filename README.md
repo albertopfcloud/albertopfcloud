@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, i'm Alberto 👋
 
-<!--
-**albertopfcloud/albertopfcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student focused on cloud infrastructure and building real projects.
 
-Here are some ideas to get you started:
+## 🎓 Background
+- SMR (IT Vocational) · International placement in Amsterdam
+- Starting ASIR in September 2025
+- Heading towards Azure cloud engineering long-term
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- ✅ AZ-900 Microsoft Azure Fundamentals
+- ✅ AZ-104 Microsoft Azure Administrator
+
+## 🛠️ Projects
+- **nextcloud-azure-lab** — Self-hosted private cloud on Azure (Ubuntu VM, Docker, NSG, Monitor)
+- **Nave** — Mobile job-matching app built with React Native + Expo
+
+## 📍 Based in Spain · Open to remote roles
