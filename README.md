@@ -1,4 +1,4 @@
-# Hey, i'm Alberto 👋
+# Hey, I'm Alberto 👋
 
 IT student focused on cloud infrastructure and building real projects.
 
@@ -9,10 +9,9 @@ IT student focused on cloud infrastructure and building real projects.
 
 ## 📜 Certifications
 - ✅ AZ-900 Microsoft Azure Fundamentals
-- ✅ AZ-104 Microsoft Azure Administrator
+- ⏳ AZ-104 Microsoft Azure Administrator
 
 ## 🛠️ Projects
 - **nextcloud-azure-lab** — Self-hosted private cloud on Azure (Ubuntu VM, Docker, NSG, Monitor)
-- **Nave** — Mobile job-matching app built with React Native + Expo
 
 ## 📍 Based in Spain · Open to remote roles
