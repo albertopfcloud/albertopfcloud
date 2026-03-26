@@ -9,7 +9,7 @@ IT student focused on cloud infrastructure and building real projects.
 
 ## Certifications
 - ✅ AZ-900 Microsoft Azure Fundamentals
-- ⏳ AZ-104 Microsoft Azure Administrator
+- ✅ AZ-104 Microsoft Azure Administrator
 
 ## Projects
 - **nextcloud-azure-lab** — Self-hosted private cloud on Azure (Ubuntu VM, Docker, NSG, Monitor)
